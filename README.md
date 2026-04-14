@@ -2,7 +2,8 @@
 
 <img width="1024" height="408" alt="image" src="https://github.com/user-attachments/assets/da2f205b-5bdd-4388-9fcd-7f7b6b93bb03" />
 
-<img width="235" height="221" alt="{48221C78-9F31-49CE-87EE-3EF45A1ECD50}" src="https://github.com/user-attachments/assets/08f18f11-043f-4a82-a1d5-0552d6aa2ce7" />
+<img width="383" height="352" alt="{8E71371C-F75C-4D3F-AEDC-876A0AB3408F}" src="https://github.com/user-attachments/assets/a7f17e29-66ba-4fc7-9e9b-471b8f2e0894" />
+
 
 
 ## Descripcion
@@ -10,6 +11,7 @@
 MeteGol es un juego de futbolin 3D para dos jugadores en modo local, desarrollado en Unity 6. Dos esferas controladas por cada jugador empujan una pelota central hacia el arco rival. El primer jugador en anotar tres goles gana la partida.
 
 El proyecto fue construido como ejercicio academico reutilizando y adaptando la logica de movimiento, deteccion de colisiones y gestion de escenas del proyecto base proporcionado en clase (Ejercicio-1-Clase-EVM-2026-1).
+<img width="235" height="221" alt="{48221C78-9F31-49CE-87EE-3EF45A1ECD50}" src="https://github.com/user-attachments/assets/08f18f11-043f-4a82-a1d5-0552d6aa2ce7" />
 
 ## Proyecto base utilizado
 
